@@ -1,0 +1,3 @@
+commands.tree_base.invalid_cmd=Invalid subcommand '%s'!
+commands.tree_base.invalid_cmd.list_subcommands=Invalid subcommand '%s'! Available subcommands: %s
+commands.tree_base.available_subcommands=Available SubCommands: %s

@@ -1,0 +1,3 @@
+commands.tree_base.invalid_cmd=子命令'%s'无效！
+commands.tree_base.invalid_cmd.list_subcommands=子命令'%s'无效！可用子命令：%s
+commands.tree_base.available_subcommands=可用子命令：%s
